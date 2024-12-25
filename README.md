@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Avinash Singh</h1>
 <h3 align="center">I'm learning Coding from India</h3>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xxavinashsinghxx&show_icons=true&locale=en&layout=compact&theme=dark" alt="xxavinashsinghxx" /></p>
+
 - 🔭 I’m currently working on **Learning**
 
 - 🌱 I’m currently learning **Python**
